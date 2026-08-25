@@ -7,7 +7,7 @@ Progress tracker for the NeetCode 75 roadmap. Each pattern has its own folder wi
 ### 01. Arrays & Hashing
 | Problem | Pattern | Difficulty | Status | Date | Link |
 |---|---|---|---|---|---|
-| Contains Duplicate | Arrays & Hashing | Easy | [ ] | | https://leetcode.com/problems/contains-duplicate/ |
+| Contains Duplicate | Arrays & Hashing | Easy | [DONE] | | https://leetcode.com/problems/contains-duplicate/ |
 | Valid Anagram | Arrays & Hashing | Easy | [ ] | | https://leetcode.com/problems/valid-anagram/ |
 | Two Sum | Arrays & Hashing | Easy | [ ] | | https://leetcode.com/problems/two-sum/ |
 | Group Anagrams | Arrays & Hashing | Medium | [ ] | | https://leetcode.com/problems/group-anagrams/ |
